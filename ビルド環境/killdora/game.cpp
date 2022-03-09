@@ -99,8 +99,8 @@ HRESULT InitGame(void)
 	InitParticle();
 
 	 //BGM再生
-	//PlaySound(SOUND_LABEL_BGM_game);
-	//SetMasterVoiceVolume(0.5f);			//	全体の音量のパーセンテージ
+	PlaySound(SOUND_LABEL_BGM_game);
+	SetMasterVoiceVolume(0.5f);			//	全体の音量のパーセンテージ
 
 	//SetSourceVoiceVolume(SOUND_LABEL_BGM_game, 0.4f);	// 調整したい音と割合をセット
 	//SetSoundFade(SOUND_LABEL_BGM_game, SOUNDFADE_OUT, 0.0f, 3.0f);
