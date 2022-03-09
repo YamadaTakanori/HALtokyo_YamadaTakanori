@@ -1,0 +1,54 @@
+﻿  bullet.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  camera.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  collision.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  debugproc.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  enemy.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  enemy2.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  fade.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  game.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  input.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  light.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  lose.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  main.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  meshfield.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  meshwall.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  model.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  particle.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  player.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  renderer.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  result.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  score.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  shadow.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  sound.cpp
+  sprite.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  title.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  tutorial.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  ui.cpp
+c:\users\kbgfg\desktop\dragon slayer_ver.1.1\main.h(17): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  コードを生成中...
